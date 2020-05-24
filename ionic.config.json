@@ -1,0 +1,7 @@
+{
+  "name": "appMap",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
